@@ -1,0 +1,28 @@
+.navbar li {
+    padding-top: 10px;
+    display: inline-block;
+    width: 33.3%;
+    text-align: center;
+    vertical-align: auto;
+}
+
+.navbar {
+    background: #5133a4;
+    min-height: 70px;
+    position: fixed;
+    width: 100%;
+    -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    color: #fff;
+    font-size: calc(10px + 12 * (100vw - 320px)/ 800);
+    z-index: 99;
+    white-space: nowrap;
+}
+
+li {
+  color: white;
+}
+
+body {
+  font-size: 24px;
+}

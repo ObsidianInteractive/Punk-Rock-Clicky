@@ -1,0 +1,22 @@
+.header{
+    background-color: #2c323c;
+    background-image: url(http://mdrecruit.com/wp-content/uploads/2013/03/almacon_2012_background_by_sakurirainne-d3j3s4i.png);
+    background-repeat: repeat;
+    color: #fff;
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 44px;
+}
+
+h2 {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+}
