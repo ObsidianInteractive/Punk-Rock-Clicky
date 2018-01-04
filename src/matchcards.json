@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "image": "amphibolite-2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "andesite.jpg",
+      "clicked": false 
+    },
+    {
+      "id": 3,
+      "image": "basalt.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "chert.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "conglomerate.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "dolomite.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "gabbro.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "gneiss.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "quartz-novaculite-505.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "peridotite.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "pumice.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "quartzite.jpg",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "image": "rhyolite.jpg",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "muscovite-schist.jpg",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "scoria.jpg",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "image": "siltstone.jpg",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "image": "talc-soapstone-79.jpg",
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "image": "welded-tuff.jpg"
+    },
+      {
+      "id": 19,
+      "image": "obsidian.jpg"
+    },
+      {
+      "id": 20,
+      "image": "breccia.jpg"
+    }
+  ]

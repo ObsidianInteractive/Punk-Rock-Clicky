@@ -1,8 +1,11 @@
-.wrapper {
-  height: 100%;
-  display: flex;
-  flex-flow: row wrap;
-  padding: 25px 0 50px;
-  justify-content: space-around;
-  align-content: flex-start;
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.scoreSummary{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15px;	
 }

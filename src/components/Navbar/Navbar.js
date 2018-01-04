@@ -7,8 +7,8 @@ class Navbar extends Component {
       <nav className="navbar navbar-default navbar-fixed-top">
          <ul>
             <li>Test Your Memory</li>
-            <li>{this.props.navMessage}</li>
-            <li> Score: {this.props.score} || Top Score: {this.props.topScore}
+            <li>{this.props.clickMessage}</li>
+            <li> Score: {this.props.correctGuesses} || Top Score: {this.props.bestScore}
             </li>
           </ul>
       </nav>
