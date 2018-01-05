@@ -10,4 +10,4 @@ https://my-clicky-game.herokuapp.com/
 
 ### Notes
 ***
-Conrad Harrison (C) 2017.
+Conrad Harrison (C) 2018.
