@@ -9,7 +9,7 @@ import "./App.css";
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = "Begin by clicking a rock.";
+let clickMessage = "Begin by clicking a Band Pic.";
 
 class App extends Component {
     
@@ -34,7 +34,7 @@ class App extends Component {
             console.log ("Best Score: " + bestScore);
 
             correctGuesses = 0;
-            clickMessage = "Good Try."
+            clickMessage = "You Suck."
 
             for (let i = 0 ; i < matches.length ; i++){
                 matches[i].clicked = false;
@@ -52,7 +52,7 @@ class App extends Component {
       
             correctGuesses++;
             
-            clickMessage = "Well Done.  Keep it up.";
+            clickMessage = "Oi! Way to go!!!s.";
 
             if (correctGuesses > bestScore){
                 bestScore = correctGuesses;

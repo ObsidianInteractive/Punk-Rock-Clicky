@@ -1,8 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker");
+
 .header{
+    font-family: 'Permanent Marker', cursive;
     background-color: #2c323c;
-    background-image: url(http://mdrecruit.com/wp-content/uploads/2013/03/almacon_2012_background_by_sakurirainne-d3j3s4i.png);
+    background-image: url(https://static1.squarespace.com/static/5893c9ffc534a5381b85c2dd/t/58d2f7c557bf42efac2d8ef0/1490226628198/moshpit.png?format=2500w);
     background-repeat: repeat;
-    color: #fff;
+    opacity: 75;
+    color: rgb(252, 252, 252);
     min-height: 400px;
     padding: 180px 20px;
     padding-bottom: 140px;

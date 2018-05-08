@@ -1,99 +1,77 @@
 [
     {
       "id": 1,
-      "image": "amphibolite-2.jpg",
+      "image": "BadBrains.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "andesite.jpg",
+      "image": "BadReligion.jpg",
       "clicked": false 
     },
     {
       "id": 3,
-      "image": "basalt.jpg",
+      "image": "BlackFlag.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "chert.jpg",
+      "image": "DeadKennedys.jpg",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "conglomerate.jpg",
+      "image": "NOFX.jpg",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "dolomite.jpg",
+      "image": "Ramones.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "gabbro.jpg",
+      "image": "Rancid.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "gneiss.jpg",
+      "image": "SexPistols.jpg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "quartz-novaculite-505.jpg",
+      "image": "theClash.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "peridotite.jpg",
+      "image": "TheStooges.jpg",
       "clicked": false
     },
-    {
+    { 
       "id": 11,
-      "image": "pumice.jpg",
+      "image": "Buzzcocks.jpg",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "quartzite.jpg",
+      "image": "TheOffspring.jpg",
       "clicked": false
     },
     {
       "id": 13,
-      "image": "rhyolite.jpg",
+      "image": "TheMisfits.png",
       "clicked": false
     },
     {
       "id": 14,
-      "image": "muscovite-schist.jpg",
+      "image": "MinorThreat.jpg",
       "clicked": false
     },
     {
       "id": 15,
-      "image": "scoria.jpg",
+      "image": "Crass.jpg",
       "clicked": false
-    },
-    {
-      "id": 16,
-      "image": "siltstone.jpg",
-      "clicked": false
-    },
-    {
-      "id": 17,
-      "image": "talc-soapstone-79.jpg",
-      "clicked": false
-    },
-    {
-      "id": 18,
-      "image": "welded-tuff.jpg"
-    },
-      {
-      "id": 19,
-      "image": "obsidian.jpg"
-    },
-      {
-      "id": 20,
-      "image": "breccia.jpg"
     }
   ]

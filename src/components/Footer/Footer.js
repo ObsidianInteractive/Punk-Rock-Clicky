@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => (
 	<footer className= "footer">
 		<div className = "bottom">
-		Clicky Game by Conrad Harrison - 2018
+		Punk Rock Clicky  - Obsidian Interactive 2018
 		</div>
 	</footer>
 );
